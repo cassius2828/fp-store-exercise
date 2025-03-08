@@ -5,9 +5,13 @@ This project is a functional programming exercise that simulates a simple invent
 ## 📌 Features
 
 ✅ Item Management – Add and remove products from inventory.
+
 ✅ User Transactions – Purchase items, apply tax, track purchase history, and process refunds.
+
 ✅ Immutability – Uses structured cloning (structuredClone()) to prevent mutations.
+
 ✅ Functional Patterns – Implements higher-order functions (map, filter, reduce), avoids side effects, and maintains clear separation of concerns.
+
 ✅ Node.js Execution – Designed to run in Node.js, with variables hardcoded for simplicity.
 
 ## 🛠 Dev Dependencies
